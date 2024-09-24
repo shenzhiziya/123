@@ -1,3 +1,4 @@
+央视频道,#genre#
 CCTV1HD,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001022/index.m3u8	
 CCTV2HD,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001220/index.m3u8	
 CCTV3HD,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001186/index.m3u8	
@@ -16,6 +17,7 @@ CCTV15HD,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001338/in
 CCTV16HD试看,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001248/index.m3u8	
 CCTV17HD,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001241/index.m3u8	
 CGTN,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001058/index.m3u8	
+卫视频道,#genre#
 安徽卫视HD,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001037/index.m3u8	
 北京卫视HD,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001029/index.m3u8	
 兵团卫视,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001066/index.m3u8	
@@ -90,6 +92,11 @@ CGTN,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001058/index.
 游戏风云HD,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001192/index.m3u8	
 云南卫视HD,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001223/index.m3u8	
 浙江卫视HD,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001023/index.m3u8	
+中国教育1HD,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001020/index.m3u8	
+中国教育2,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001226/index.m3u8	
+中国教育4HD,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001348/index.m3u8	
+中国天气,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001102/index.m3u8	
+重庆卫视HD,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001129/index.m3u8	
 直播室101,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001148/index.m3u8	
 直播室102,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001149/index.m3u8	
 直播室103,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001150/index.m3u8	
@@ -101,8 +108,3 @@ CGTN,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001058/index.
 直播室109,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001378/index.m3u8	
 直播室110,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001388/index.m3u8	
 直播室111,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001398/index.m3u8	
-中国教育1HD,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001020/index.m3u8	
-中国教育2,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001226/index.m3u8	
-中国教育4HD,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001348/index.m3u8	
-中国天气,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001102/index.m3u8	
-重庆卫视HD,http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001129/index.m3u8	
