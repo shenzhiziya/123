@@ -1,3 +1,4 @@
+央视频道,#genre#
 CCTV-1,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-1/1.m3u8
 CCTV-2,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-2/1.m3u8
 CCTV-3,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv3/1.m3u8
@@ -17,6 +18,7 @@ CCTV-16,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/H
 CCTV-17,http://120.210.193.151:8006/120000001002/XMTcctv-17hd/index.m3u8
 CGTN,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-9/1.m3u8
 CGTN新闻,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctvennews/1.m3u8
+卫视频道,#genre#
 安徽卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/anhuistv/1.m3u8
 湖南卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/hunanstv/1.m3u8
 东方卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/dongfangstv/1.m3u8
@@ -54,6 +56,7 @@ CETV-4,http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
 厦门卫视,http://120.210.193.151:8006/120000001002/XMTxmws/index.m3u8
 兵团卫视,http://120.210.193.151:8006/120000001002/XMTbtws/index.m3u8
 CETV-2,http://120.210.193.151:8006/120000001002/XMTcetv-2/index.m3u8
+动画电影频道,#genre#
 黑莓动画,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/donghuawg/1.m3u8
 古装剧场,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/guzhuangjc/1.m3u8
 动作电影,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/dongzuody/1.m3u8
@@ -90,6 +93,7 @@ CETV-2,http://120.210.193.151:8006/120000001002/XMTcetv-2/index.m3u8
 动漫秀场,http://120.210.193.151:8006/120000001002/XMTdmxc/1.m3u8
 金色频道,http://120.210.193.151:8006/120000001002/XMTjspd/1.m3u8
 东方财经,http://120.210.193.151:8006/120000001002/XMTdfcj/1.m3u8
+央视高清频道,#genre#
 CCTV-1高清,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv1/1.m3u8
 CCTV-2高清,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8
 CCTV-3高清,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv3/1.m3u8
@@ -109,6 +113,7 @@ CCTV-16高清4M,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-busines
 CCTV-17高清,http://120.210.193.151:8006/120000001002/XMTcctv-17hd/index.m3u8
 CCTV5+高清,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv05plus/1.m3u8
 CGTN高清,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-9/1.m3u8
+卫视高清频道,#genre#
 安徽卫视高清,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-anhuistv/1.m3u8
 湖南卫视高清,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-hunanstv/1.m3u8
 东方卫视高清,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-dongfangstv/1.m3u8
@@ -144,6 +149,7 @@ CETV-1高清,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/l
 海豚健康,http://120.210.193.151:8006/120000001002/XMThtjk/1.m3u8
 海豚影视,http://120.210.193.151:8006/120000001002/XMThtys/1.m3u8
 海豚少儿,http://120.210.193.151:8006/120000001002/XMThtse/1.m3u8
+安徽本地频道,#genre#
 池州新闻综合,http://120.210.193.151:8006/120000001002/XMTChiZ_xwzh/index.m3u8
 池州公共频道,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ah_chizhougg/index.m3u8
 池州石台综合,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/SD12-576P-czst/1.m3u8
@@ -233,6 +239,7 @@ CETV-1高清,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/l
 肥东新闻综合,http://120.210.193.151:8006/120000001002/SD12-576P-fdxwzh/index.m3u8
 肥东经济生活,http://120.210.193.151:8006/120000001002/SD12-576P-fdjjsh/index.m3u8
 合肥庐江综合频道,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/ah_ljzhpd/1.m3u8
+测试频道,#genre#
 家庭影院（测试）,http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8
 动作电影（测试）,http://120.210.193.151:8006/120000001002/XMTdzdy/1.m3u8
 高清电影（测试）,http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8
